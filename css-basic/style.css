@@ -1,0 +1,12 @@
+@charset "utf-8";
+h1 {
+    /* color:plum; */
+    /* color: rgba(255,0,0,0.5); */
+    color: #f00;
+    font-size: 60px;
+}
+
+h2,h3,h4 {
+    color:hotpink;
+    /* font-size: 20ox; */
+}
